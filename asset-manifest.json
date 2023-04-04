@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jokes.git/static/css/main.d7c74f76.css",
+    "main.js": "/Jokes.git/static/js/main.6bd0797b.js",
+    "index.html": "/Jokes.git/index.html",
+    "main.d7c74f76.css.map": "/Jokes.git/static/css/main.d7c74f76.css.map",
+    "main.6bd0797b.js.map": "/Jokes.git/static/js/main.6bd0797b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c74f76.css",
+    "static/js/main.6bd0797b.js"
+  ]
+}
